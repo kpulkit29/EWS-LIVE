@@ -1,5 +1,5 @@
 # EWS-LIVE
-Live demo(only on ropsten network) https://ethwebservices.herokuapp.com/
+Live demo(only on ropsten network) https://ethwebservices.firebaseapp.com
 # EWS-Ethereum web services
 
 EWS is a dApp built on the top ethereum blockhain and ipfs :-
